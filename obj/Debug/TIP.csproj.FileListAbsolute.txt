@@ -1,0 +1,10 @@
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\bin\Debug\TIP.exe.config
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\bin\Debug\TIP.exe
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\bin\Debug\TIP.pdb
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.csproj.AssemblyReference.cache
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.Form1.resources
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.Properties.Resources.resources
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.csproj.GenerateResource.cache
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.csproj.CoreCompileInputs.cache
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.exe
+C:\Users\anish\OneDrive\Documents\Anisha\TIP\obj\Debug\TIP.pdb
